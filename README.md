@@ -10,4 +10,6 @@
 - [✔️] BM25 + MiniLM Hybrid Retrieval (hashem)
 - [✔️] RRF + Evaluation Metrics (hashem)
 - [✔️] Falcon-7B Generation Pipeline (Abdelrhman)
-- [✔️] Gradio UI inside Colab (paula)
+- [✔️] Gradio UI inside Colab (Abdelrhman)
+- [✔️] Report (paula)
+  
